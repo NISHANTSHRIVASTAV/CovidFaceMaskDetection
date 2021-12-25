@@ -1,0 +1,8 @@
+numpy
+opencv-python==3.4.2.16
+opencv-contrib-python==3.4.13.47
+imutils
+Flask
+Pillow
+streamlit==0.79.0
+email-to
